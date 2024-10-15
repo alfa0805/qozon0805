@@ -1,0 +1,53 @@
+// .aside {
+//   margin-top: 40px;
+//   background-color: $oq;
+//   .title {
+//     padding-left:250px;
+//     width:70%;
+//     box-sizing:content-box;
+//     &__text {
+//       font-family: Gilroy;
+//       font-size: 35px;
+//       font-weight: 500;
+//       line-height: 57.6px;
+//       text-align: left;
+//       color: $qora;
+//     }
+//     &__title {
+//       font-family: Gilroy;
+//       font-size: 35px;
+//       font-weight: 700;
+//       text-align: left;
+//       color: $qora;
+//     }
+//     &__span {
+//       font-family: Gilroy;
+//       font-size: 35px;
+//       font-weight: 700;
+//       line-height: 57.6px;
+//       text-align: left;
+//       color: $qora;
+//     }
+//     &__subtext {
+//       font-family: Gilroy;
+//       font-size: 18px;
+//       font-weight: 400;
+//       line-height: 28.8px;
+//       text-align: left;
+//       color:$qora;
+//     }
+//   }
+//   .box{
+//     &__list{
+//         width:80%;
+//         display: flex;
+//         align-items:center;
+//         justify-content:center;
+//         flex-wrap: wrap;
+//         gap:20px;
+//         &-item{
+//             width:31%;
+//         }
+//     }
+//   }
+// }
